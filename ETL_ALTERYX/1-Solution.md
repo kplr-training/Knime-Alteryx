@@ -69,6 +69,11 @@
 
 ![image](https://user-images.githubusercontent.com/123749462/226353469-50f01aa8-1f53-4ace-a97f-b0ae1dbc56f0.png)
 
+![image](https://user-images.githubusercontent.com/123749462/226355559-2a149795-3b45-4448-acf4-de251a32b211.png)
+
+- Configurer le Noeud DateTime : 
+
+![image](https://user-images.githubusercontent.com/123749462/226358616-b9af9328-6be5-46c8-bc70-f0c28984f746.png)
 
 
 
