@@ -7,10 +7,12 @@ Le jeu de données contient des informations sur les stades : nom du stade, vill
 ![image](https://user-images.githubusercontent.com/123749462/226389936-5d40a08b-aa38-4329-a828-8422db562855.png)
 
 
-Travaille à faire :
-
 1. Trouver toutes les villes hôtes de la Coupe du monde sur la carte.
 2. Classer la distance des stades en commençant par le plus éloigné de Doha, la capitale du Qatar. La distance doit être mesurée en miles. Pour les données géographiques des stades, utiliser les coordonnées géographiques des villes (latitude et longitude).
 
+# Travaille à faire :
+
+- Essayez de réaliser ce workflow avec la configuration de chaque composant en fonction de ce qui est demandé dans le graphe ci-dessus et exécutez ce workflow .
+- Pour chaque éxecution de chaque composant : prendre un screenshot de l'Output .
 
 
