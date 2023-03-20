@@ -93,3 +93,9 @@
 
 - Exécuter le noeud de formula :
 
+![image](https://user-images.githubusercontent.com/123749462/226371791-b13bd0e7-6f53-490c-80c0-5c09b09dba6f.png)
+
+- Drag and Drop le noeud Filter :
+
+![image](https://user-images.githubusercontent.com/123749462/226372014-e79479b3-0b46-4942-8f21-150b5f311314.png)
+
