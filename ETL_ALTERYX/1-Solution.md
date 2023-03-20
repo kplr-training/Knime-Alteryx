@@ -99,3 +99,6 @@
 
 ![image](https://user-images.githubusercontent.com/123749462/226372014-e79479b3-0b46-4942-8f21-150b5f311314.png)
 
+- On va configurer notre filtre avec un filtre basique sur la longueur du séjour :
+
+![image](https://user-images.githubusercontent.com/123749462/226374690-0e463f56-8962-4faf-b2cd-a5edb874dce9.png)
