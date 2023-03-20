@@ -56,7 +56,14 @@
 
 ![image](https://user-images.githubusercontent.com/123749462/225916457-a0a958cd-89e9-41a3-a9ae-1fdb33c196df.png)
 
+- Configuration de notre formule : 
+  - On va ajouter une nouvelle colonne ``Date d'arrivée (Check in date)`` et on va predre cette formule : 
+  ```
+  [arrival_date_day_of_month]+" "+[arrival_date_month]+" "+[arrival_date_year]
+  ```
+- Exécuter le noeud de formula :
 
+![image](https://user-images.githubusercontent.com/78825764/226331801-9f990ff3-292f-46b2-9091-e94275bc9189.png)
 
 
 
