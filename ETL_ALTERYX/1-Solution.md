@@ -75,6 +75,8 @@
 
 ![image](https://user-images.githubusercontent.com/123749462/226358616-b9af9328-6be5-46c8-bc70-f0c28984f746.png)
 
+- Exécuter le noeud DateTime :
 
+![image](https://user-images.githubusercontent.com/123749462/226363365-e8d2803f-b2f3-4c55-a09f-0e81bfa0f6f9.png)
 
 
