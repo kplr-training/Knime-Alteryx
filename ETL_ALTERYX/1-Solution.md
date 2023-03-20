@@ -102,3 +102,13 @@
 - On va configurer notre filtre avec un filtre basique sur la longueur du séjour :
 
 ![image](https://user-images.githubusercontent.com/123749462/226374690-0e463f56-8962-4faf-b2cd-a5edb874dce9.png)
+
+- Exécuter ce filtre : 
+
+![image](https://user-images.githubusercontent.com/123749462/226375198-9e7e4234-a9fc-4aa6-bb21-0b8c2f5092ed.png)
+
+- Drag and Drop le noeud Summarize : Transform > Summarize 
+
+![image](https://user-images.githubusercontent.com/123749462/226377095-ba283b84-d015-46c0-91ed-10a56ecace7e.png)
+
+![image](https://user-images.githubusercontent.com/123749462/226377410-aa288006-67de-4423-9da7-b18560a368b1.png)
