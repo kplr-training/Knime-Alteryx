@@ -65,5 +65,10 @@
 
 ![image](https://user-images.githubusercontent.com/78825764/226331801-9f990ff3-292f-46b2-9091-e94275bc9189.png)
 
+- Drag and drop le noeud DateTime : Parse > DateTime : 
+
+![image](https://user-images.githubusercontent.com/123749462/226353469-50f01aa8-1f53-4ace-a97f-b0ae1dbc56f0.png)
+
+
 
 
