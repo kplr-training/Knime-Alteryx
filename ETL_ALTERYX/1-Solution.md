@@ -79,4 +79,17 @@
 
 ![image](https://user-images.githubusercontent.com/123749462/226363365-e8d2803f-b2f3-4c55-a09f-0e81bfa0f6f9.png)
 
+- Drag and Drop un autre noeud : Formula 
+
+![image](https://user-images.githubusercontent.com/123749462/226363711-31079a14-9b82-4529-ae39-6458d6df3441.png)
+
+- Configuration de notre formule : 
+  - On va ajouter une nouvelle colonne ``Longueur du séjour`` et on va predre cette formule : 
+  ```
+  DateTimeDiff([Date d'arrivée revue],[reservation_status_date],"days")*-1
+  ```
+
+![image](https://user-images.githubusercontent.com/123749462/226366762-5c5e1e2d-7a78-450c-95b0-a1e624294073.png)
+
+- Exécuter le noeud de formula :
 
