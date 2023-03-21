@@ -81,6 +81,46 @@
   ```
   - Choisir le type de donnée Double 
 
+- Cliquer sur Run :
+
+![image](https://user-images.githubusercontent.com/123749462/226689254-39bf2a35-7779-471a-988d-faf27346259d.png)
+
+- Drag and Drop le noeud Sort :
+
+![image](https://user-images.githubusercontent.com/123749462/226689627-6c4ab675-34a8-4d91-b360-91caff605cf9.png)
+
+- Choisir la colonne Percentage_Employed avec un ordre décroissant :
+
+![image](https://user-images.githubusercontent.com/123749462/226690267-de5ad242-2d12-426a-ad89-bc37ea432656.png)
+
+- Cliquer sur Run : 
+
+![image](https://user-images.githubusercontent.com/123749462/226690565-457b29b0-e108-45c0-82ad-06440589ec28.png)
+- Drag and Drop le noeud Filter :
+
+![image](https://user-images.githubusercontent.com/123749462/226690960-1b89907f-93f0-4953-9d08-35788337172e.png)
+
+![image](https://user-images.githubusercontent.com/123749462/226691037-d5c0cf34-6632-4447-90e1-bc155e2946be.png)
+
+- Sélectionner un filtre basic pour prendre les valeurs de Percentage_Employed qui sont supérieurs ou égal à 80%
+
+![image](https://user-images.githubusercontent.com/123749462/226692210-702eae0e-15c5-4713-b3fd-29c39b0592c4.png)
+
+- Cliquer sur Run :
+
+![image](https://user-images.githubusercontent.com/123749462/226692430-05635d69-d923-47b2-9cd6-bd40c10e03ca.png)
+
+- Drag and Drop le noeud Browse :
+
+![image](https://user-images.githubusercontent.com/123749462/226692789-1c06d6b1-2add-496e-8d53-3daea4b7b365.png)
+
+- Cliquer sur Run :
+
+![image](https://user-images.githubusercontent.com/123749462/226693280-bb17f1d5-a698-4308-b73e-5e38e1999c86.png)
+
+
+
+
 
 
 
