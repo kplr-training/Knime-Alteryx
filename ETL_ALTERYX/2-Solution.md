@@ -46,4 +46,25 @@
 
 ![image](https://user-images.githubusercontent.com/123749462/226682693-b2f59af0-1938-4d4f-ba92-7993f2e92bc8.png)
 
+- Cliquer sur Run :
+
+![image](https://user-images.githubusercontent.com/123749462/226683147-fe907228-df3d-446c-8d1a-3d6de468320a.png)
+
+- Drag and Drop le noeud Select :
+
+![image](https://user-images.githubusercontent.com/123749462/226683685-094afffc-149a-4a9b-a78f-a957df57dc31.png)
+
+![image](https://user-images.githubusercontent.com/123749462/226683857-fc6ca692-9611-48c9-af2d-bad44f3c5d12.png)
+
+- Décocher cette ligne , et changer le type de ces champs en int64 :
+
+![image](https://user-images.githubusercontent.com/123749462/226685805-47c66f04-f8a4-4de3-8edd-c1ab39c16cfc.png)
+
+
+
+
+
+
+
+
 
