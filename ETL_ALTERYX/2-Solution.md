@@ -60,6 +60,27 @@
 
 ![image](https://user-images.githubusercontent.com/123749462/226685805-47c66f04-f8a4-4de3-8edd-c1ab39c16cfc.png)
 
+- Cliquer sur Run :
+
+![image](https://user-images.githubusercontent.com/123749462/226686545-db2640f0-f78a-4af8-81fa-d801072c4ccb.png)
+
+- Drag and Drop le noeud Formula : 
+
+![image](https://user-images.githubusercontent.com/123749462/226686935-ea282d35-eb55-41fa-b8ae-1e78d7f2f529.png)
+
+![image](https://user-images.githubusercontent.com/123749462/226687120-02fe03f1-9381-4805-a6c6-bf47bdc4c640.png)
+
+- On va configurer notre formule :
+
+![image](https://user-images.githubusercontent.com/123749462/226688078-746052d6-a7db-4ed1-b6bf-18ff5906aead.png)
+
+  - On ajoute une nouvelle colonne ( Add Column ) avec le nom ``Percentage_Employed``
+  - On ajoute la formule :
+  ```
+  Ceil([Employed]/[Total]*100)
+  ```
+  - Choisir le type de donnée Double 
+
 
 
 
