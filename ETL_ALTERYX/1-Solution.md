@@ -88,8 +88,9 @@
   ```
   DateTimeDiff([Date d'arrivée revue],[reservation_status_date],"days")*-1
   ```
+  - Data type : Int16
 
-![image](https://user-images.githubusercontent.com/123749462/226366762-5c5e1e2d-7a78-450c-95b0-a1e624294073.png)
+![image](https://user-images.githubusercontent.com/123749462/226473445-44484a03-6745-4000-9072-15b15d3280a3.png)
 
 - Exécuter le noeud de formula :
 
@@ -101,7 +102,7 @@
 
 - On va configurer notre filtre avec un filtre basique sur la longueur du séjour :
 
-![image](https://user-images.githubusercontent.com/123749462/226374690-0e463f56-8962-4faf-b2cd-a5edb874dce9.png)
+![image](https://user-images.githubusercontent.com/123749462/226494446-1406bd6b-9832-42a8-b7f8-f031d6b83484.png)
 
 - Exécuter ce filtre : 
 
@@ -112,3 +113,19 @@
 ![image](https://user-images.githubusercontent.com/123749462/226377095-ba283b84-d015-46c0-91ed-10a56ecace7e.png)
 
 ![image](https://user-images.githubusercontent.com/123749462/226377410-aa288006-67de-4423-9da7-b18560a368b1.png)
+
+- On va configurer notre noeud Summarize 
+  - 1ère étape : 
+
+  ![image](https://user-images.githubusercontent.com/123749462/226569953-2500c727-afd1-40a4-8b08-b6f339c01d1a.png)
+  
+  - 2ème étape : 
+
+  ![image](https://user-images.githubusercontent.com/123749462/226570151-e27e3302-dcab-4a1e-be6a-500aa0439327.png)
+  
+  - 3ème étape :
+
+  ![image](https://user-images.githubusercontent.com/123749462/226570322-8fc6787f-fa29-46b5-b1c5-4d6b0797c4d7.png)
+
+
+ 
