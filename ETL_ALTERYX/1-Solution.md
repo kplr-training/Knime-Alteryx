@@ -127,4 +127,21 @@
   - 3ème étape :
 
   ![image](https://user-images.githubusercontent.com/123749462/226650025-679e0e58-341e-48e2-808c-630165b7313e.png)
+  
+ - Exécuter le noeud Summarize : 
+
+  ![image](https://user-images.githubusercontent.com/123749462/226650584-28210fad-dd3a-4abe-ae15-2976e746584c.png)
+  
+  - Drag and drop Browse : 
+
+![image](https://user-images.githubusercontent.com/123749462/226651383-3c151a71-63ab-479d-8856-76d88e7527d4.png)
+
+![image](https://user-images.githubusercontent.com/123749462/226651485-720abd7d-c949-4b5a-a10d-aa3aff82521a.png)
+
+- Cliquer sur Run : 
+
+![image](https://user-images.githubusercontent.com/123749462/226651871-bdfcb4f4-5099-4848-beff-c0051a7ef918.png)
+
+
+
  
