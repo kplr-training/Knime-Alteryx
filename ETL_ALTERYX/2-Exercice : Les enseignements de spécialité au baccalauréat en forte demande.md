@@ -1,4 +1,4 @@
-# Exercice : Recommandations de lecture
+# Exercice : Les enseignements de spécialité au baccalauréat en forte demande
 
 
 - Vous devez nettoyer et formater des données, les trier et créer un champ calculé.
