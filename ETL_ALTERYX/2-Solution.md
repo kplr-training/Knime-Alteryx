@@ -33,3 +33,17 @@
 - Exécuter le noeud Text to Columns :
 
 ![image](https://user-images.githubusercontent.com/123749462/226679492-0bd753f2-b925-4a0d-bdaa-6643458154cf.png)
+
+- En utilisant la barre de recherche , trouver le noeud Dynamic Rename :
+
+![image](https://user-images.githubusercontent.com/123749462/226681457-5099ef91-be85-42c3-be79-c026c56b43ab.png)
+
+- Drag and Drop le noeud Dynamic Rename :
+
+![image](https://user-images.githubusercontent.com/123749462/226681662-519edcc7-d104-4f65-94b1-f8684a94f27a.png)
+
+- Choisir ``Take Field Names from First Row of Data`` du Rename Mode :
+
+![image](https://user-images.githubusercontent.com/123749462/226682693-b2f59af0-1938-4d4f-ba92-7993f2e92bc8.png)
+
+
