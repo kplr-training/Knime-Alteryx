@@ -1,4 +1,4 @@
-# Solution : Les enseignements de spécialité au baccalauréat en forte demande:
+# Solution : Les enseignements de spécialité au baccalauréat en forte demande :
 
 - Drag and Drop le noeud Text Input :
 
