@@ -1,10 +1,9 @@
 # Installation KNIME
 
 - Allez sur : https://www.knime.com/downloads :
-
+- Pas besoin de remplir tous ces champs ; il suffit de cocher la case ' I have read and accept the terms and conditions ....' puis cliquer sur Download
 ![image](https://user-images.githubusercontent.com/123749462/231817402-ac9770e0-25e5-4420-8d92-f6d2a0d480ee.png)
 
-- Remplissez les champs puis cliquer sur Download
 - Sélectionner la version adéquate (pour windows sélectionner Installer)
 
 ![image](https://user-images.githubusercontent.com/123749462/231817958-77c5ea2e-f2b2-430a-b515-9ac7ca41e632.png)
