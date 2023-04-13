@@ -34,3 +34,20 @@
  - Cliquer sur Install
 
 ![image](https://user-images.githubusercontent.com/123749462/231824537-5c332e89-8b97-4120-89e2-15895a58528e.png)
+
+- Cliquer sur finish :
+
+![image](https://user-images.githubusercontent.com/123749462/231825959-596e03a5-4553-4168-849f-d9d5c20db77f.png)
+ 
+
+![image](https://user-images.githubusercontent.com/123749462/231826082-996d618a-2d7c-46ce-8d38-cbb1b5f68bb3.png)
+
+- Cliquer sur launch :
+
+![image](https://user-images.githubusercontent.com/123749462/231826274-ad8ea96c-99d9-499c-ad0e-68050d9269ea.png)
+
+- Et Voilàààà !!
+
+![image](https://user-images.githubusercontent.com/123749462/231826543-8f1d9457-ea84-4e3a-8e49-78e4d658c315.png)
+
+
