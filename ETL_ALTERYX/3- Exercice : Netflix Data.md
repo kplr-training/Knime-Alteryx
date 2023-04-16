@@ -12,3 +12,4 @@ Le Dataset contient des informations sur les émissions sur Netflix. Utilisez le
 
 📢📢 Cette liste ne doit contenir que des films internationaux (international movies) classés par année de sortie et durée.
 
+- A vous de jouer cette fois 😉 , c'est simple 👌😊
